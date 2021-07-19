@@ -1,0 +1,23 @@
+Utkarsh :
+
+1. Admin page - System users section :
+				1.Search by username ,reset
+				2.Search by user role - select class , reset
+				3.Search by Employee Name - xpath ,  reset
+				4.Search by status - select class, reset
+				
+			  - Add User using Data providers
+			  - Delete User
+			  
+			  
+			  
+Poonam :
+
+1. Admin page - System users section :
+				1.Search by username ,reset
+				2.Search by user role - select class , reset
+				3.Search by Employee Name - keyboard keys ,  reset
+				4.Search by status - select class, reset
+				
+			  - Add User using Excel file
+			  - Delete User

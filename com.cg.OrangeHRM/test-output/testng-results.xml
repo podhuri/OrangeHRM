@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-19T18:12:08 IST" name="Default suite" finished-at="2021-07-19T18:12:29 IST" duration-ms="21207">
+    <groups>
+    </groups>
+    <test started-at="2021-07-19T18:12:08 IST" name="Default test" finished-at="2021-07-19T18:12:29 IST" duration-ms="21207">
+      <class name="com.cg.oranghrm.testcase.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cg.oranghrm.testcase.LoginPageTest@3d1cfad4]" started-at="2021-07-19T18:12:08 IST" name="setUp" finished-at="2021-07-19T18:12:17 IST" duration-ms="8421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitle()[pri:1, instance:com.cg.oranghrm.testcase.LoginPageTest@3d1cfad4]" started-at="2021-07-19T18:12:17 IST" name="verifyLoginPageTitle" finished-at="2021-07-19T18:12:17 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method signature="verifyLoginPageLogo()[pri:2, instance:com.cg.oranghrm.testcase.LoginPageTest@3d1cfad4]" started-at="2021-07-19T18:12:17 IST" name="verifyLoginPageLogo" finished-at="2021-07-19T18:12:18 IST" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageLogo -->
+        <test-method signature="verifyLoginPanel()[pri:3, instance:com.cg.oranghrm.testcase.LoginPageTest@3d1cfad4]" started-at="2021-07-19T18:12:18 IST" name="verifyLoginPanel" finished-at="2021-07-19T18:12:20 IST" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPanel -->
+        <test-method signature="verifyLogin()[pri:4, instance:com.cg.oranghrm.testcase.LoginPageTest@3d1cfad4]" started-at="2021-07-19T18:12:20 IST" name="verifyLogin" finished-at="2021-07-19T18:12:29 IST" duration-ms="9614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- com.cg.oranghrm.testcase.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
